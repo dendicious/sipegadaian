@@ -304,6 +304,7 @@ public int len(String field){
             JOptionPane.showMessageDialog(null, "tanggal keluar barang harus diisi", "WARNING",JOptionPane.INFORMATION_MESSAGE);
             txttgl_keluar.setText("1999-01-01");
             txttgl_keluar.setText("1999-01-01");
+            txttgl_keluar.setText("1999-01-01");
             txttgl_keluar.requestFocus();
         }
 }//GEN-LAST:event_txthrg_mskFocusGained
