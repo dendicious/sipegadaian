@@ -331,7 +331,6 @@ public int len(String field){
         if(len(txthargakeluar.getText())==0){
             JOptionPane.showMessageDialog(null, "harga keluar barang harus diisi", "WARNING",JOptionPane.INFORMATION_MESSAGE);
             txthargakeluar.setText("1000");
-            txthargakeluar.setText("1000");
             txthargakeluar.requestFocus();
         }
 }//GEN-LAST:event_txtjumlahFocusGained
