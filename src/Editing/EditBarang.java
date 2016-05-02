@@ -5,7 +5,7 @@
 
 /*
  * NewJInternalFrame.java
- *
+ * Test
  * 
  */
 
